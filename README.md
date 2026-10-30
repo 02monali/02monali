@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Monali Chaudhari</h1>
+<h3 align="center">B.Tech Artificial Intelligence & Data Science Student</h3>
 
-<!--
-**02monali/02monali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Aspiring AI/ML Developer | 🌱 Lifelong Learner | 🚀 Building Projects
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+* 🎓 Currently pursuing B.Tech in Artificial Intelligence & Data Science.
+* 💡 Interested in Artificial Intelligence, Machine Learning and Data Science.
+* 🌱 Currently improving my programming and development skills.
+* 🚀 Exploring new technologies and building projects.
+* 🎯 Working towards becoming a skilled software professional.
+
+### 🛠️ Tech Stack
+
+* **Languages:** Python, C, Java
+* **Web Development:** HTML, CSS
+* **Database:** SQL
+* **Tools:** Git, GitHub, VS Code
+
+### 📫 Connect With Me
+
+* LinkedIn: Add your LinkedIn profile link here.
+* GitHub: 02monali
