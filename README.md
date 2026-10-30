@@ -1,12 +1,7 @@
-<h1 align="center">Hi 👋, I'm Monali Chaudhari</h1>
-<h3 align="center">B.Tech Artificial Intelligence & Data Science Student</h3>
 
-<p align="center">
-  💻 Aspiring AI/ML Developer | 🌱 Lifelong Learner | 🚀 Building Projects
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,mysql,git,github,vscode" />
 </p>
-
----
-
 ### 👩‍💻 About Me
 
 * 🎓 Currently pursuing B.Tech in Artificial Intelligence & Data Science.
@@ -15,12 +10,14 @@
 * 🚀 Exploring new technologies and building projects.
 * 🎯 Working towards becoming a skilled software professional.
 
-### 🛠️ Tech Stack
+---
 
-* **Languages:** Python, C, Java
-* **Web Development:** HTML, CSS
-* **Database:** SQL
-* **Tools:** Git, GitHub, VS Code
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=02monali&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=02monali&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ### 📫 Connect With Me
 
